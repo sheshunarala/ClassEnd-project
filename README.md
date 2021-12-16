@@ -1,2 +1,2 @@
 # DevOps Batch End Project
-## This Projrct has various technology stacks and jenkinsfile
+## This Project has various technology stacks and jenkinsfile
